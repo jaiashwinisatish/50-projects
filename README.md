@@ -1,4 +1,4 @@
-# 🚀 50 Projects in 50 Days
+# 🚀 50 Projects in 50 Days...
 
 A collection of 50 mini front-end projects built using **HTML, CSS, and JavaScript**.  
 This repository is part of a challenge to improve consistency, creativity, and practical development skills.
