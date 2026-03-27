@@ -41,7 +41,7 @@ project-name/
 ```
 
 No React. No Vue. No TypeScript.
-Just the **3 core languages of the web** — pure and simple.
+Just the **3 core languages of the web**  pure and simple.
 
 ---
 
