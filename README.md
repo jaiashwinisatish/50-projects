@@ -306,16 +306,4 @@ JavaScript Concepts Used in This Repo
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and share.
-
----
-
-<div align="center">
-
-**Made with ❤️ for learners everywhere**
-
-*Star ⭐ the repo if it helped you learn!*
-
-</div>
+❤️ 
