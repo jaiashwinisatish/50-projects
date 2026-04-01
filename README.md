@@ -1,4 +1,4 @@
-# 🚀 50 Projects in 50 Days Beginner's Visual Guide
+ 🚀 50 Projects in 50 Days Beginner's Visual Guide
 
 > **HTML · CSS · JavaScript** | Learn by Building | No Frameworks Needed
 
