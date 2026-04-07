@@ -4,7 +4,7 @@
 
                 
 
-## 🌟 What Is This?
+## What Is This?
 
 A collection of **50 mini front-end projects** built using only HTML, CSS, and vanilla JavaScript.
 Each project teaches one or two key concepts in a fun, hands-on way.
